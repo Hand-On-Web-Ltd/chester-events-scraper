@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chester Races - May Festival",
+    "date": "2025-05-07",
+    "location": "Chester Racecourse",
+    "description": "Three days of world-class horse racing at the oldest racecourse in England. Great atmosphere, food stalls, and live music."
+  },
+  {
+    "title": "Chester Food & Drink Festival",
+    "date": "2025-06-14",
+    "location": "Chester Racecourse",
+    "description": "Annual food festival with over 100 stalls, cooking demos from local chefs, and plenty of free samples."
+  },
+  {
+    "title": "Storyhouse: The Comedy Store",
+    "date": "2025-04-18",
+    "location": "Storyhouse Theatre",
+    "description": "Live stand-up comedy night featuring four top comics. Doors open at 7pm, show starts at 8pm."
+  },
+  {
+    "title": "Chester Christmas Markets",
+    "date": "2025-11-15",
+    "location": "Town Hall Square",
+    "description": "Festive market with wooden chalets selling handmade gifts, hot food, mulled wine, and seasonal treats."
+  },
+  {
+    "title": "Chester Literature Festival",
+    "date": "2025-10-03",
+    "location": "Various venues",
+    "description": "Week-long festival of talks, readings, and workshops with authors from across the UK."
+  },
+  {
+    "title": "Chester Pride",
+    "date": "2025-08-02",
+    "location": "Castle Square & Town Hall",
+    "description": "Chester's annual Pride celebration with a parade through the city centre, live music, and community stalls."
+  },
+  {
+    "title": "Moonlight Flicks - Outdoor Cinema",
+    "date": "2025-07-22",
+    "location": "Chester Roman Gardens",
+    "description": "Watch classic films under the stars in the Roman Gardens. Bring a blanket and a picnic."
+  },
+  {
+    "title": "Chester Half Marathon",
+    "date": "2025-05-18",
+    "location": "Chester city centre",
+    "description": "13.1 miles through Chester's streets and along the River Dee. Open to runners of all abilities."
+  },
+  {
+    "title": "Handbridge Community Market",
+    "date": "2025-04-26",
+    "location": "Handbridge, Chester",
+    "description": "Monthly community market with local producers selling bread, cheese, veg, and handmade goods."
+  },
+  {
+    "title": "Chester Music Festival",
+    "date": "2025-07-10",
+    "location": "Chester Cathedral",
+    "description": "Classical music performances in the stunning setting of Chester Cathedral. Free lunchtime concerts included."
+  }
+]
